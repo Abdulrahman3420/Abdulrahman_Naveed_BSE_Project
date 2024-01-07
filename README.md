@@ -4,6 +4,6 @@ I'm excited to introduce you to my comprehensive portfolio, highlighting the dev
 
 Contained within this repository is an extensive collection of information detailing my meticulous work and innovation in bringing this cutting-edge project to life.
 
-For a closer look at the project's evolution and intricate details, please visit my GitHub repository by following this link: **GitHub Repository Link
+For a closer look at the project's evolution and intricate details, please visit my GitHub repository by following this link: **https://abdulrahman3420.github.io/Abdulrahman_Naveed_BSE_Project/
 
 Thank you for your interest in exploring my remarkable endeavor.
